@@ -18,7 +18,7 @@ Best User Bot To Manage Your Telegram Account
 
 ## Don't Forget To Give A Star.
 
-### Deploy Thunderuserbot In Heroku
+### Deploy MASTER-MING-USERBOT In Heroku
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RDX-ANONYMOUS/MASTER-MIND-BOT)
 
