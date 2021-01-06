@@ -37,7 +37,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value by running termux STRING_SESSION ",
+      "description": "Get this value by running termux STRING_SESSION /or easy way:- https://repl.it/@ANONYMOUSGANGST/MASTERE-MINF-BOT#main.py",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
@@ -46,12 +46,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name , but GITHUB_ACCESS_TOKEN must be setup first.",
-      "value": "",
-      "required": false
-    },
-    "LYDIA_API_KEY": {
-      "description": "Needed for Lydia AI. Follow https://telegra.ph/Lydia-09-05 to get your API.",
+      "description": "Your repo name , but GITHUB_ACCESS_TOKEN must be filled!.",
       "value": "",
       "required": false
     },
