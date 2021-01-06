@@ -7,7 +7,7 @@ from io import BytesIO
 from datetime import datetime
 import random
 from telethon import events
-from userbot.utils import admin_cmd, sudo_cmd
+from userbot.utils import admin_cmd
 from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "ANONYMOUS"
