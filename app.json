@@ -4,8 +4,8 @@
   "logo": "https://telegra.ph/file/19ea7a05f62940857d2df.jpg",
   "keywords": ["telegram", "userbot", "plugin", "modular", "productivity"],
   "repository": "https://github.com/RDX-ANONYMOUS/MASTER-MIND-BOT",
-  "website": "https://t.me/thunderuserbot",
-  "success_url": "https://t.me/thunderuserbot",
+  "website": "https://t.me/XMASTER_MIND_BOT",
+  "success_url": "https://t.me/XMASTER_MIND_BOT",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
