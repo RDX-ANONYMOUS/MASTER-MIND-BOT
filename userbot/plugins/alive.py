@@ -33,7 +33,6 @@ pm_caption += "➾ **𝙲𝙾𝙿𝚈𝚁𝙸𝙶𝙷𝚃 𝙱𝚈** ☞ [𝕄�
 pm_caption += f"➾ **M̸R̸ N̸O̸O̸B̸** ☞ [{DEFAULTUSER}](tg://user?id={ghanti})\n"
 
 @borg.on(admin_cmd(pattern=r"alive"))
-@borg.on(sudo_cmd(pattern=r"alive", allow_sudo=True))
 
 async def hmm(yes):
     chat = await yes.get_chat()
